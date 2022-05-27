@@ -1,0 +1,9 @@
+CRITICAL - 2022-05-27 03:58:17 --> cors filter must have a matching alias defined.
+#0 C:\xampp\htdocs\TugasAkhir\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('cors')
+#1 C:\xampp\htdocs\TugasAkhir\system\Filters\Filters.php(243): CodeIgniter\Filters\Filters->processAliasesToClass('before')
+#2 C:\xampp\htdocs\TugasAkhir\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('products')
+#3 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('products', 'before')
+#4 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}

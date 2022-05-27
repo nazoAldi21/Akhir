@@ -1,0 +1,280 @@
+ERROR - 2022-05-24 02:57:46 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2022-05-24 03:19:01 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('products', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 03:19:44 --> Too few arguments to function CodeIgniter\Router\RouteCollection::get(), 1 passed in C:\xampp\htdocs\TugasAkhir\app\Config\Routes.php on line 35 and at least 2 expected
+#0 C:\xampp\htdocs\TugasAkhir\app\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->get('products')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(713): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-24 03:19:45 --> Too few arguments to function CodeIgniter\Router\RouteCollection::get(), 1 passed in C:\xampp\htdocs\TugasAkhir\app\Config\Routes.php on line 35 and at least 2 expected
+#0 C:\xampp\htdocs\TugasAkhir\app\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->get('products')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(713): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-24 03:19:45 --> Too few arguments to function CodeIgniter\Router\RouteCollection::get(), 1 passed in C:\xampp\htdocs\TugasAkhir\app\Config\Routes.php on line 35 and at least 2 expected
+#0 C:\xampp\htdocs\TugasAkhir\app\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->get('products')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(713): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-24 03:19:45 --> Too few arguments to function CodeIgniter\Router\RouteCollection::get(), 1 passed in C:\xampp\htdocs\TugasAkhir\app\Config\Routes.php on line 35 and at least 2 expected
+#0 C:\xampp\htdocs\TugasAkhir\app\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->get('products')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(713): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-24 03:19:45 --> Too few arguments to function CodeIgniter\Router\RouteCollection::get(), 1 passed in C:\xampp\htdocs\TugasAkhir\app\Config\Routes.php on line 35 and at least 2 expected
+#0 C:\xampp\htdocs\TugasAkhir\app\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->get('products')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(713): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-24 03:20:11 --> syntax error, unexpected 'namespace' (T_NAMESPACE)
+#0 C:\xampp\htdocs\TugasAkhir\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('products')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('products')
+#2 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-24 03:23:18 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('products', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+ERROR - 2022-05-24 03:24:30 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+ERROR - 2022-05-24 03:25:17 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+ERROR - 2022-05-24 03:25:58 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2022-05-24 03:32:35 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('products', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 03:32:42 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 03:33:21 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 03:33:28 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('products', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 03:34:45 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('product/show', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 03:35:02 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('products/show', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 03:35:32 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('show', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 03:35:37 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('products/show', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 03:37:00 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('products', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 03:37:05 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 03:37:14 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('products', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 03:37:20 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('products/show', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 03:37:28 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('products', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 03:37:31 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('products', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 03:40:34 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('products', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 03:40:42 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 21:25:40 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 21:26:13 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 21:26:15 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 21:26:16 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 21:26:26 --> syntax error, unexpected 'namespace' (T_NAMESPACE)
+#0 C:\xampp\htdocs\TugasAkhir\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('PRODUCTS')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('PRODUCTS')
+#2 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-24 21:26:35 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('products', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 21:28:53 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 21:28:56 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 21:42:55 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 21:47:17 --> syntax error, unexpected 'namespace' (T_NAMESPACE)
+#0 C:\xampp\htdocs\TugasAkhir\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('products')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('products')
+#2 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-24 21:49:06 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 21:49:45 --> Class 'Config\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 21:50:35 --> Class 'Config\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 21:50:56 --> Class 'Config\App\Filters\Cors' not found
+#0 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-24 21:54:37 --> syntax error, unexpected 'namespace' (T_NAMESPACE)
+#0 C:\xampp\htdocs\TugasAkhir\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('products')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('products')
+#2 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-24 21:58:36 --> syntax error, unexpected 'namespace' (T_NAMESPACE)
+#0 C:\xampp\htdocs\TugasAkhir\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('products')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('products')
+#2 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-24 22:01:12 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\TugasAkhir\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('products')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('products')
+#2 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-24 22:02:22 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\TugasAkhir\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('products')
+#1 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('products')
+#2 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\TugasAkhir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TugasAkhir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\TugasAkhir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
